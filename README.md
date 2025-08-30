@@ -25,6 +25,6 @@ I'm a passionate full-stack developer focused on building modern, scalable web a
 ![](https://github-contributor-stats.vercel.app/api?username=shivangrai5143&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### LeetCode Progress
-![](https://leetcard.jacoblin.cool/shivangrai5143?ext=heatmap)
+![](https://leetcard.jacoblin.cool/shivang_raii?ext=heatmap)
 
 
